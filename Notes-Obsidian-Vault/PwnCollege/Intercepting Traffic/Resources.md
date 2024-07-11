@@ -1,0 +1,6 @@
+- [IP man page](https://linux.die.net/man/8/ip)
+	- [ip cheatsheet](https://access.redhat.com/sites/default/files/attachments/rh_ip_command_cheatsheet_1214_jcs_print.pdf)
+- [TCPdump man page](https://linux.die.net/man/8/tcpdump)
+- [Wireshark's user guide](https://www.wireshark.org/docs/wsug_html_chunked/)
+- [scapy documentation](https://scapy.readthedocs.io/en/latest/)
+- 

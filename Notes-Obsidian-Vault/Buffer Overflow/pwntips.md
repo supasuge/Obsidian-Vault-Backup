@@ -1,0 +1,12 @@
+## Table of Contents
+
+    - [For Downloading all the necessary linked and automatically compiling + generating template pwn file](#For\Downloading\all\the\necessary\linked\and\automatically\compiling\+\generating\template\pwn\file)
+
+### For Downloading all the necessary linked and automatically compiling + generating template pwn file
+```bash
+pwninit
+https://github.com/io12/pwninit/releases
+```
+
+
+
