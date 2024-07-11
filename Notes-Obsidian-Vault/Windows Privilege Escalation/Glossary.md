@@ -1,0 +1,2 @@
+**Security Identifiers**: used to uniquely identify a security principal or security group. Security principals can represent any entity that can be authenticated by the operating system, such as a user account, a computer account, or a thread or process that runs in the security context of a user or computer account.
+- https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/understand-security-identifiers
