@@ -5,3 +5,8 @@ It's quite messy and all over the place... it make's sense to me and that's all 
 
 
 **Updates coming soon!**
+
+## TODO
+- 08/07/24
+Create git pipeline using plugin's to automate upload of new notes, excluding personal directories similarly to `.gitignore`.
+
